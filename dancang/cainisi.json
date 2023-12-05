@@ -856,7 +856,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_search_Zhaozy",
@@ -865,7 +865,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "push_agent",
@@ -875,7 +875,7 @@
       "searchable": 1,
       "changeable": 0,
       "jar": https://gitee.com/shangyunvip/shangyunvipdc/raw/master/lib/fm1124.jar;md5;1117603a248d03a2fba94c991612970f",
-      "ext": "./tvbox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     
     {
