@@ -171,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "YiSo",
@@ -502,7 +502,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": https://gitee.com/shangyunvip/shangyunvipdc/raw/master/lib/tvlive.txt",
+      "url": https://gitee.com/shangyunvip/shangyunvipdc/raw/master/lib/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
