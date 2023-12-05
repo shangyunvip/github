@@ -23,7 +23,7 @@
     },
     {
       "key": "农民",
-      "name": "🥝农民",
+      "name": "🌸农民",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -116,7 +116,7 @@
     },
     {
       "key": "皮皮虾",
-      "name": "🦑皮皮虾",
+      "name": "🌸皮皮虾",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
@@ -262,7 +262,7 @@
     },
     {
       "key": "csp_SixV",
-      "name": "🧲新6V",
+      "name": "🌸新6V",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -349,7 +349,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🦊找资源",
+      "name": "🌸找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
