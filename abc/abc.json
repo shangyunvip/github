@@ -336,6 +336,20 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+        {
+      "key": "玩偶弹幕版",
+      "name": "玩偶哥哥弹幕|4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "filter": "https://already.free.hr/okcaptain/okjar/rm/wogg.json",
+        "danmu": true
+      }
+    },
     {
       "key": "YiSo",
       "name": "🆎易搜",
