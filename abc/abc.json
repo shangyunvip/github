@@ -326,15 +326,15 @@
       "changeable": 0
     },
     {
-      "key": "csp_WoGG",
-      "name": "👽玩偶哥哥(弹幕测试)",
+      "key": "玩偶哥哥",
+      "name": "👽玩具弟弟┃4K弹幕)",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "YiSo",
