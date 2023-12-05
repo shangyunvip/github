@@ -24,7 +24,7 @@
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": false
             },
-            "jar": "./lib/928.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/928.jar"
         },
         {
             "key": "玩偶弹幕版",
@@ -39,17 +39,17 @@
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": true
             },
-            "jar": "./lib/1012.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/1012.jar"
         },
         {
             "key": "csp_Alistxy",
             "name": "🅿️Alist网盘",
             "type": 3,
-            "jar": "./lib/AListxy.jar",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/AListxy.jar",
             "api": "csp_AListxy",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./lib/Alistxy.json"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/Alistxy.json"
         },
         {
             "key": "荐片",
@@ -62,7 +62,7 @@
             "ext": {
                 "danmu": false
             },
-            "jar": "./lib/1012.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/1012.jar"
         },
         {
             "key": "荐片弹幕版",
@@ -75,14 +75,14 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./lib/1012.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/1012.jar"
         },
         {
             "key": "♻️爱奇异",
             "name": "爱奇艺",
             "type": 3,
-            "api": "./lib/apiv197drpy2.min.js",
-            "ext": "./lib/aiqiyi.js"
+            "api": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/apiv197drpy2.min.js",
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/aiqiyi.js"
         },
         {
             "key": "🐿csp_KungFu4041",
@@ -93,7 +93,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/🐿ali.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🐿ali.jar"
         },
         {
             "key": "csp_woggcli",
@@ -104,7 +104,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/🧚‍♂️.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🧚‍♂️.jar"
         },
         {
             "key": "🍮Gitcafe6",
@@ -115,7 +115,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/HeChengChaXiupm.jar"
         },
         {
             "key": "🍮PanSou6",
@@ -126,7 +126,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/HeChengChaXiupm.jar"
         },
         {
             "key": "🍮UpYun6",
@@ -137,7 +137,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/HeChengChaXiupm.jar"
         },
         {
             "key": "🍮Zhaozy6",
@@ -148,14 +148,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$ygfxz$$$66666",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/HeChengChaXiupm.jar"
         },
         {
             "key": "♻️drpy_js_ddys",
             "name": "♻️荐片",
             "type": 3,
-            "api": "./lib/apiv197drpy2.min.js",
-            "ext": "./lib/荐片.js"
+            "api": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/apiv197drpy2.min.js",
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/荐片.js"
         },
         {
             "key": "🦊csp_WoGG",
@@ -243,7 +243,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_Zhaozy5",
@@ -255,7 +255,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$yannanfei$$$abcdefg",
-            "jar": "./lib/xyq.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_AliPS",
@@ -267,7 +267,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_Yisou5",
@@ -279,7 +279,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_Upyunso5",
@@ -291,7 +291,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHiker_土拨鼠搜索",
@@ -302,8 +302,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/土拨鼠搜索.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/土拨鼠搜索.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_玩偶哥哥",
@@ -314,8 +314,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/玩偶哥哥.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/玩偶哥哥.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_云盘资源",
@@ -326,8 +326,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/云盘资源分享.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/云盘资源分享.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_我的小站",
@@ -338,8 +338,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/我的小站.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/我的小站.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_阿里云盘网",
@@ -350,8 +350,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/阿里云盘网.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/阿里云盘网.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_豆豆飞",
@@ -362,8 +362,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/豆豆飞.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/豆豆飞.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_橘子盘搜",
@@ -374,8 +374,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/橘子盘搜.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/橘子盘搜.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHiker_DOVX搜索",
@@ -386,8 +386,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/DOVX搜索.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/DOVX搜索.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "📀csp_XYQHiker_盘搜索",
@@ -398,8 +398,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/盘搜索.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/盘搜索.json",
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         },
         {
             "key": "🦄YiSo3",
@@ -411,7 +411,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🦄.jar"
         },
         {
             "key": "🦄Zhaozy3",
@@ -423,7 +423,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto$$$fanfan$$$qqq111",
-            "jar": "./lib/🦄.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🦄.jar"
         },
         {
             "key": "🦄PanSou3",
@@ -435,7 +435,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🦄.jar"
         },
         {
             "key": "🦄UpYun3",
@@ -447,7 +447,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🦄.jar"
         },
         {
             "key": "🦄PanSearch3",
@@ -458,7 +458,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🦄.jar"
         },
         {
             "key": "🦄七夜3",
@@ -469,7 +469,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/🦄.jar"
         },
         {
             "key": "🐿t4_wo",
@@ -480,7 +480,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿csp_WoGG7",
@@ -490,7 +490,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿UP云搜7",
@@ -500,7 +500,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿纸条7",
@@ -510,7 +510,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿易搜7",
@@ -520,7 +520,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿阿里云盘7",
@@ -530,7 +530,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿盘搜7",
@@ -540,7 +540,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿网盘搜索7",
@@ -550,7 +550,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐿找资源7",
@@ -561,7 +561,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "null$$$yunshuche$$$11223344",
-            "jar": "./lib/ali1191.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/ali1191.jar"
         },
         {
             "key": "🐝玩偶5",
@@ -571,7 +571,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/pg.jar"
         },
         {
             "key": "🦉七夜8",
@@ -581,7 +581,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/pg.jar"
         },
         {
             "key": "🦉雲搜8",
@@ -591,7 +591,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/pg.jar"
         },
         {
             "key": "🦉盤搜8",
@@ -601,7 +601,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/pg.jar"
         },
         {
             "key": "🦉盤搜索8",
@@ -611,7 +611,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/pg.jar"
         },
         {
             "key": "🦉找資源8",
@@ -621,7 +621,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$test2$$$test2",
-            "jar": "./lib/pg.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/pg.jar"
         },
         {
             "key": "push_agent",
@@ -642,7 +642,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/ali/lib/xyq.jar"
         }
     ],
     "parses": [
