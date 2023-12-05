@@ -3,8 +3,8 @@
   "wallpaper": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/tupian/fengjing1.jpg",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "🌕【饭太硬】",
+      "key": "豆瓣",
+      "name": "🌕【饭太硬】接口免费，切勿付费。","warningText": "接口集合，按需取用。",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
