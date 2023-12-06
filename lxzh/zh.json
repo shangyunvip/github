@@ -3,7 +3,7 @@
 
  "spider":"./lxhfans1.jar",
   "wallpaper":"https://api.likepoems.com/img/bing",
-  "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+  "warningText":"乐享汇fans综合",
   "lives": [
     {
       "name": "直播",
@@ -21,7 +21,7 @@
 "sites":[
     {
      "key":"DB",
-     "name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+     "name":"🌎豆瓣|乐享汇fans综合",
      "type":3,
      "api":"./lib/drpy.min.js","ext":"./lib/豆瓣.js"
     },
@@ -43,7 +43,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./lib/yysd.json",
-      "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
+      "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/lxzh/lib/iKM4JYRY_lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
     {
       "key": "csp_酷奇",
