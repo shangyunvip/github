@@ -1,15 +1,18 @@
 {
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;7B7B0D16BF03311874A7B8791510F858",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "shangyunvip": "https://gitee.com/shangyunvip/shangyunvipdc/edit/master/nanfeng",
+  "友情提醒": "接口完全免费，切勿付费购买。",
+  "spider": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/lib/fty1204.jar;md5;be6121b5c37471b191114027123912d2",
+  "wallpaper": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/tupian/fengjing1.jpg",
   "sites": [
     {
-      "key": "csp_DouDou",
-      "name": "🔍豆瓣┃本接口免费-🈲贩卖",
+      "key": "豆瓣",
+      "name": "豆瓣┃影视",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_Douban",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
+      "changeable": 1,
+      "ext": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/lib/douban.json",
+      "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/lib/fm1204.jar;md5;9060b67dfec8782aca6e79ba17c0979b"
     },
     {
       "key": "csp_Czsapp",
