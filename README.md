@@ -15,9 +15,9 @@
 
 #### 使用说明
 
-1. 使用路径：https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/TVB/master/
+1. 使用路径：https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/github/master/
 2. 替换./读取github文件
-3. 实例："./js/360影视.js"       "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/TVB/master/js/360影视.js"
+3. 实例："./js/360影视.js"    "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/TVB/master/js/360影视.js"
 
 #### 参与贡献
 
