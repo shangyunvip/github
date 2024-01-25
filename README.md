@@ -1,7 +1,7 @@
 # shangyunvipdc
 
 #### 介绍
-js，json，jar都在库
+本库用于存放一些gitee读取不到的文件
 
 #### 软件架构
 软件架构说明
@@ -15,9 +15,9 @@ js，json，jar都在库
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 使用路径：https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/TVB/master/
+2. 替换./读取github文件
+3. 实例："./js/360影视.js"       "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/TVB/master/js/360影视.js"
 
 #### 参与贡献
 
