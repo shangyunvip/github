@@ -1,5 +1,0 @@
-网络收集，请勿付费！
-使用方法：下载，解压到根目录，把tvbox文件夹拖到根目录
-蜂蜜/easybox使用：file://tvbox/shangyunvip.txt
-影视仓/影迷/宝盒使用：clan://localhost/tvbox/shangyunvip.txt
-直播源优先选用<⚡️4K⚡️通用>直播线路
